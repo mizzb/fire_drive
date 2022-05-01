@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "731733965390",
+    "project_id": "fire-drive-app",
+    "storage_bucket": "fire-drive-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731733965390:android:cf48f8bf811d078d44611f",
+        "android_client_info": {
+          "package_name": "com.firedrive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "731733965390-4n177q4nni0ckfr1u71qtv6lmg4gsm23.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1Wnlq8JlHwVwO6UTMoQpOoqE7E8NbLcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "731733965390-4n177q4nni0ckfr1u71qtv6lmg4gsm23.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "731733965390-6tp9o5fvku00sqtsg9lfikgm5sks7q31.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fireDrive"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
